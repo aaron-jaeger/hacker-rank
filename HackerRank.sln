@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolveMeFirst", "src\Algorit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleArraySum", "src\Algorithms\Warmup\SimpleArraySum\SimpleArraySum.csproj", "{CF7616DC-A7FA-491F-A8B2-0B114747C013}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "src\Algorithms\Warmup\CompareTheTriplets\CompareTheTriplets.csproj", "{C3705ACA-F6A5-4CD2-ACD9-F39B1E0188A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompareTheTriplets", "src\Algorithms\Warmup\CompareTheTriplets\CompareTheTriplets.csproj", "{C3705ACA-F6A5-4CD2-ACD9-F39B1E0188A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVeryBigSum", "src\Algorithms\Warmup\AVeryBigSum\AVeryBigSum.csproj", "{92FA892F-6806-4F24-9C58-8ECDA4577A6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C3705ACA-F6A5-4CD2-ACD9-F39B1E0188A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3705ACA-F6A5-4CD2-ACD9-F39B1E0188A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3705ACA-F6A5-4CD2-ACD9-F39B1E0188A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92FA892F-6806-4F24-9C58-8ECDA4577A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FA892F-6806-4F24-9C58-8ECDA4577A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FA892F-6806-4F24-9C58-8ECDA4577A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FA892F-6806-4F24-9C58-8ECDA4577A6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,6 +55,7 @@ Global
 		{14D5E135-9E52-483E-AA6C-592F6C2A7AD3} = {0BC3B707-24C0-4866-988B-39F93DFE4A6F}
 		{CF7616DC-A7FA-491F-A8B2-0B114747C013} = {0BC3B707-24C0-4866-988B-39F93DFE4A6F}
 		{C3705ACA-F6A5-4CD2-ACD9-F39B1E0188A5} = {0BC3B707-24C0-4866-988B-39F93DFE4A6F}
+		{92FA892F-6806-4F24-9C58-8ECDA4577A6F} = {0BC3B707-24C0-4866-988B-39F93DFE4A6F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C2F19DDE-E95C-4418-9634-FD4B3C61DECB}
