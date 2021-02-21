@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "src\A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "src\Algorithms\Warmup\Staircase\Staircase.csproj", "{82DDF03E-9420-4C6C-A2D6-FF3B2117DD76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMaxSum", "src\Algorithms\Warmup\MiniMaxSum\MiniMaxSum.csproj", "{40122F37-89D3-403C-B820-40E4BD4F949B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniMaxSum", "src\Algorithms\Warmup\MiniMaxSum\MiniMaxSum.csproj", "{40122F37-89D3-403C-B820-40E4BD4F949B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCakeCandles", "src\Algorithms\Warmup\BirthdayCakeCandles\BirthdayCakeCandles.csproj", "{AE1263E7-3F78-47B9-94F0-EAFD0DC45A5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{40122F37-89D3-403C-B820-40E4BD4F949B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40122F37-89D3-403C-B820-40E4BD4F949B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40122F37-89D3-403C-B820-40E4BD4F949B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1263E7-3F78-47B9-94F0-EAFD0DC45A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1263E7-3F78-47B9-94F0-EAFD0DC45A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1263E7-3F78-47B9-94F0-EAFD0DC45A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1263E7-3F78-47B9-94F0-EAFD0DC45A5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -77,6 +83,7 @@ Global
 		{A18F9564-9379-4FA8-9CAB-DF3CAF99BA08} = {0BC3B707-24C0-4866-988B-39F93DFE4A6F}
 		{82DDF03E-9420-4C6C-A2D6-FF3B2117DD76} = {0BC3B707-24C0-4866-988B-39F93DFE4A6F}
 		{40122F37-89D3-403C-B820-40E4BD4F949B} = {0BC3B707-24C0-4866-988B-39F93DFE4A6F}
+		{AE1263E7-3F78-47B9-94F0-EAFD0DC45A5F} = {0BC3B707-24C0-4866-988B-39F93DFE4A6F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C2F19DDE-E95C-4418-9634-FD4B3C61DECB}
