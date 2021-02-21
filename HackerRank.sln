@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleArraySum", "src\Algor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompareTheTriplets", "src\Algorithms\Warmup\CompareTheTriplets\CompareTheTriplets.csproj", "{C3705ACA-F6A5-4CD2-ACD9-F39B1E0188A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVeryBigSum", "src\Algorithms\Warmup\AVeryBigSum\AVeryBigSum.csproj", "{92FA892F-6806-4F24-9C58-8ECDA4577A6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVeryBigSum", "src\Algorithms\Warmup\AVeryBigSum\AVeryBigSum.csproj", "{92FA892F-6806-4F24-9C58-8ECDA4577A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "src\Algorithms\Warmup\DiagonalDifference\DiagonalDifference.csproj", "{A18F9564-9379-4FA8-9CAB-DF3CAF99BA08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{92FA892F-6806-4F24-9C58-8ECDA4577A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92FA892F-6806-4F24-9C58-8ECDA4577A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92FA892F-6806-4F24-9C58-8ECDA4577A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18F9564-9379-4FA8-9CAB-DF3CAF99BA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18F9564-9379-4FA8-9CAB-DF3CAF99BA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18F9564-9379-4FA8-9CAB-DF3CAF99BA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18F9564-9379-4FA8-9CAB-DF3CAF99BA08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,6 +62,7 @@ Global
 		{CF7616DC-A7FA-491F-A8B2-0B114747C013} = {0BC3B707-24C0-4866-988B-39F93DFE4A6F}
 		{C3705ACA-F6A5-4CD2-ACD9-F39B1E0188A5} = {0BC3B707-24C0-4866-988B-39F93DFE4A6F}
 		{92FA892F-6806-4F24-9C58-8ECDA4577A6F} = {0BC3B707-24C0-4866-988B-39F93DFE4A6F}
+		{A18F9564-9379-4FA8-9CAB-DF3CAF99BA08} = {0BC3B707-24C0-4866-988B-39F93DFE4A6F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C2F19DDE-E95C-4418-9634-FD4B3C61DECB}
