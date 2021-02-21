@@ -15,9 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Warmup", "Warmup", "{0BC3B707-24C0-4866-988B-39F93DFE4A6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveMeFirst", "src\Algorithms\Warmup\SolveMeFirst\SolveMeFirst.csproj", "{14D5E135-9E52-483E-AA6C-592F6C2A7AD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolveMeFirst", "src\Algorithms\Warmup\SolveMeFirst\SolveMeFirst.csproj", "{14D5E135-9E52-483E-AA6C-592F6C2A7AD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleArraySum", "src\Algorithms\Warmup\SimpleArraySum\SimpleArraySum.csproj", "{CF7616DC-A7FA-491F-A8B2-0B114747C013}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleArraySum", "src\Algorithms\Warmup\SimpleArraySum\SimpleArraySum.csproj", "{CF7616DC-A7FA-491F-A8B2-0B114747C013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "src\Algorithms\Warmup\CompareTheTriplets\CompareTheTriplets.csproj", "{C3705ACA-F6A5-4CD2-ACD9-F39B1E0188A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CF7616DC-A7FA-491F-A8B2-0B114747C013}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF7616DC-A7FA-491F-A8B2-0B114747C013}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF7616DC-A7FA-491F-A8B2-0B114747C013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3705ACA-F6A5-4CD2-ACD9-F39B1E0188A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3705ACA-F6A5-4CD2-ACD9-F39B1E0188A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3705ACA-F6A5-4CD2-ACD9-F39B1E0188A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3705ACA-F6A5-4CD2-ACD9-F39B1E0188A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -42,6 +48,7 @@ Global
 		{0BC3B707-24C0-4866-988B-39F93DFE4A6F} = {18CD26D5-0260-42D8-B74B-FE8D39977ED3}
 		{14D5E135-9E52-483E-AA6C-592F6C2A7AD3} = {0BC3B707-24C0-4866-988B-39F93DFE4A6F}
 		{CF7616DC-A7FA-491F-A8B2-0B114747C013} = {0BC3B707-24C0-4866-988B-39F93DFE4A6F}
+		{C3705ACA-F6A5-4CD2-ACD9-F39B1E0188A5} = {0BC3B707-24C0-4866-988B-39F93DFE4A6F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C2F19DDE-E95C-4418-9634-FD4B3C61DECB}
